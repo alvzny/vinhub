@@ -109,6 +109,3 @@ task.spawn(function()
         end)
     end
 end)
-
--- 7. Load Alvin HUB
-loadstring(game:HttpGet("https://raw.githubusercontent.com/alvzny/vinhub/refs/heads/main/vinhub"))()
